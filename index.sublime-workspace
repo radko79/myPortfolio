@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"col-xs-4"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"flex-",
+				"flex-basis"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"font-t",
+				"font-style"
+			],
+			[
+				"test",
+				"text-transform"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"transo",
+				"transform"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"c",
+				"capitalize"
+			],
+			[
+				"md",
+				"col-md-4"
+			],
+			[
+				"col-md",
+				"col-md-8"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"col-",
+				"col-6"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"C",
+				"Condensed"
+			],
+			[
+				"sha",
+				"text-shadow"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"S",
+				"Sans"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"phot",
+				"photo-container"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"ce",
+				"clear"
+			],
+			[
+				"table",
+				"tablet"
+			],
+			[
+				"border-rig",
+				"border-right-width"
+			],
+			[
+				"border-l",
+				"border-left-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"syt",
+				"list-style"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"table-co",
+				"table-column-group"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"image-",
+				"border-image-width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"auto",
+				"autoswitch_speed"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"data",
+				"data-fancybox"
+			],
+			[
+				"fil",
+				"filter\t: NodeFilter TreeWalker"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"str",
+				"strokeRect"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"pain",
+				"paint_cell"
+			],
+			[
+				"create_",
+				"create_food"
+			],
+			[
+				"el",
+				"else_if"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"add",
+				"addColorStop"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"poi",
+				"point-small"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"wo",
+				"word1"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"f",
+				"firstName"
+			],
+			[
+				"onmous",
+				"onmouseover\tAttr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"v",
+				"var1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 448.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Radosław Podgórski/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Radosław Podgórski/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/E/Kodilla/W07/Zadania/7.7/sass/style.sass",
+		"/C/Users/Radosław Podgórski/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/E/Kodilla/W07/Zadania/7.7/sass/style.scss",
+		"/E/Kodilla/w07/Zadania/7.7/package.json",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.6/index.html",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.6/js/scripts.js",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.4/js/scripts.js",
+		"/E/Kodilla/W07/Zadania/7.7/package.json",
+		"/E/Kodilla/W07/Zadania/7.4/lyrics/package.json",
+		"/E/Kodilla/W07/Zadania/7.7/.gitignore",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.5/js/scripts.js",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.5/index.html",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.2/js/scripts.js",
+		"/E/Kodilla/W07/Zadania/7.7/index.html",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.4/index.html",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.2/index.html",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.4/js/script.js",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.3/js/script.js",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.3/package.json",
+		"/E/Kodilla/W07/Zadania/7.7/css/style.css",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.1/js/script.js",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.1/index.html",
+		"/E/Kodilla/W08 - Wprowadzenie do JavaScriptu cz. 1/Zadania/8.1/css/style.css",
+		"/E/Web Scripting/Eduonix/Chapter 5 - CSS Timeline/S5 - Timeline Responsive CSS/Program Files/timeline/css/style.css",
+		"/E/Web Scripting/Eduonix/Chapter 5 - CSS Timeline/S5 - Timeline Responsive CSS/Program Files/timeline/index.html",
+		"/E/Kodilla/W07/Zadania/7.7/css/flex.css",
+		"/E/Kodilla/W05 - Skrótem Bootstrap/Zadania/5.5/style.css",
+		"/E/Kodilla/W05 - Skrótem Bootstrap/Zadania/5.5/index.html",
+		"/E/Kodilla/W03/Zadania/3.4/Project-02/style.css",
+		"/E/Kodilla/W03/Zadania/3.4/Project-02/index.html",
+		"/E/Kodilla/W04 - Responsywny layout/4.3/index.html",
+		"/E/Kodilla/W04 - Responsywny layout/4.3/style.css",
+		"/E/Kodilla/W07/Zadania/7.7/client/package.json",
+		"/E/Kodilla/W07/Zadania/7.6/task-6/package",
+		"/E/Kodilla/W07/Zadania/7.6/package.json",
+		"/E/Kodilla/W07/Zadania/7.6/task-6/package.json",
+		"/E/Kodilla/W07/Zadania/7.5/komendy.txt",
+		"/E/Kodilla/W07/Zadania/7.5/style.css",
+		"/E/Kodilla/W07/Zadania/7.5/.gitignore",
+		"/E/Kodilla/W07/Zadania/7.4/lyrics/_footer.sass",
+		"/E/Kodilla/W07/Zadania/7.4/lyrics/index.html",
+		"/E/Kodilla/W07/Zadania/7.4/lyrics/.gitignore",
+		"/C/Users/Radosław Podgórski/.ssh/W07-copy/index.html",
+		"/C/Users/Radosław Podgórski/.ssh/W07-copy/.gitignore",
+		"/C/Users/Radosław Podgórski/.ssh/W07-copy/_footer.scss",
+		"/E/Kodilla/W05/Zadania/5.5/index.html",
+		"/E/Kodilla/W06/Zadania/6.3/style.sass",
+		"/E/Kodilla/W07/Zadania/7.3/lyrics/style.sass",
+		"/E/Kodilla/W07/Zadania/7.3/lyrics/index.html",
+		"/E/Kodilla/W05/Zadania/5.5/style.css",
+		"/E/Kodilla/W07/Projekty/learning-git/index.html",
+		"/C/Users/Radosław Podgórski/.ssh/W07-copy/touch",
+		"/E/Kodilla/W07/Zadania/7.2/learning-git/index.html",
+		"/E/Kodilla/W07/LearningGit/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.5/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.5/index.html",
+		"/E/Kodilla/W03/Zadania/3.3/style.css",
+		"/E/Kodilla/W06/Zadania/6.3/output.css",
+		"/E/Kodilla/W03/Zadania/3.2/style.css",
+		"/E/Kodilla/W06/Zadania/6.3/output.css.map",
+		"/E/Kodilla/W06/Zadania/6.2/index.html",
+		"/E/Kodilla/W06/Zadania/6.2/style.sass",
+		"/E/Kodilla/W06/Zadania/6.2/style.css",
+		"/E/Kodilla/W06/Zadania/6.2/style.scss",
+		"/E/Kodilla/W03/Zadania/3.4/Project-01/style.css",
+		"/E/Kodilla/W04/4.5/Patryk/style.css",
+		"/E/Kodilla/W04/4.5/Patryk/index.html",
+		"/E/Kodilla/W04/4.5/style.css",
+		"/E/Kodilla/W04/4.5/index.html",
+		"/E/Kodilla/W05/Zadania/5.4/style.css",
+		"/E/Kodilla/W05/Zadania/5.4/index.html",
+		"/E/Kodilla/W03/Zadania/3.4/Project-01/index.html",
+		"/E/Kodilla/W05/Zadania/5.3/index.html",
+		"/E/Kodilla/W05/Zadania/testy/gallery/index.html",
+		"/E/Kodilla/W05/Zadania/5.2/index.html",
+		"/E/Kodilla/W03/Zadania/3.4/Project-02/testy/fa.html",
+		"/E/Kodilla/W04/testy/style.css",
+		"/E/Kodilla/W04/testy/flex-direction.html",
+		"/E/Kodilla/W02/Zadania/Z2.3/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.3/index.html",
+		"/E/Kodilla/W03/Zadania/3.4/Project-02/index2.html",
+		"/E/Kodilla/W03/Zadania/3.4/Project-02/style2.css",
+		"/E/Kodilla/W03/Zadania/3.4/index.html",
+		"/E/Kodilla/W03/Zadania/3.4/style.css",
+		"/E/Kodilla/W04/4.3/style.css",
+		"/E/Kodilla/W04/4.3/index.html",
+		"/E/Kodilla/W03/Zadania/3.3/Patryk/ToShow/style.css",
+		"/E/Kodilla/W03/Zadania/3.3/Patryk/ToShow/index.html",
+		"/E/Kodilla/W04/4.4/style.css",
+		"/E/Kodilla/W04/4.4/index.html",
+		"/E/Kodilla/W03/Zadania/3.3/index.html",
+		"/E/Kodilla/W04/z4.4/style.css",
+		"/E/Kodilla/W04/z4.4/index.html",
+		"/E/Kodilla/W04/z4.3/style.css",
+		"/E/Kodilla/W04/z4.3/index.html",
+		"/E/Kodilla/W03/Zadania/3.3/Pure CSS slide up and down panels on hover/style.css",
+		"/E/Kodilla/W03/Zadania/3.3/Pure CSS slide up and down panels on hover/index.html",
+		"/E/Kodilla/W03/Zadania/3.3/testy/imagehover.css-master/index.html",
+		"/E/Kodilla/W03/Zadania/3.3/testy/imagehover.css-master/css/imagehover.css",
+		"/E/Kodilla/W03/Zadania/3.2/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.2/Testy/2/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.2/Testy/2/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.2/css/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.2/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.2/Testy/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.2/Testy/style.css",
+		"/E/Kodilla/W02/Zadania/Z5.1/style.css",
+		"/E/Kodilla/W02/Zadania/Z5.1/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.6/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.4/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.5/testy/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.5/testy/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.5/testy/index",
+		"/E/Kodilla/W02/Zadania/Z2.3/testy/2/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.3/testy/2/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.3/style2.css",
+		"/E/Kodilla/W02/Zadania/Z2.3/style3.css",
+		"/E/Kodilla/W02/Zadania/Z2.3/index3.html",
+		"/E/Kodilla/W02/Zadania/Z2.6/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.4/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.6/test/a/css/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.6/test/a/index.html",
+		"/E/Kodilla/W02/Zadania/Z2.6/test/style.css",
+		"/E/Kodilla/W02/Zadania/Z2.6/test/index.html",
+		"/E/Kodilla/W02/Zadania/Z2/style.css",
+		"/E/Kodilla/W02/Zadania/Z2/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
